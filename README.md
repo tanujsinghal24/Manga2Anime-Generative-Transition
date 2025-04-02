@@ -24,7 +24,7 @@ WebGL (for performance on supported devices)
 
 More info & Sources:
 The example used is from One Punch Man:
-Manga page sourced from: https://readonepunch-man.com/
+Manga page sourced from: https://readonepunch-man.com/  + solo leveling
 Anime clip sourced from a publicly available YouTube video (random, non-owned source)
 All content used is for experimentation and is not owned by me. This is an open personal project for learning and exploration only.
 
